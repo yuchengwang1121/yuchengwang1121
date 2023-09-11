@@ -5,7 +5,10 @@ I'm Yu-Cheng Wang. Junior Software Coding & New born on RTL Coding
 ![YCW's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchengwang1121&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchengwang1121&layout=compact&show_icons=true&theme=radical)
 
-📩 
+📩 How to reach me:
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/yucheng-wang-3a569128b)
+[![Send me Email](https://img.shields.io/badge/--linkedin?label=Gmail&logo=Gmail&style=social)](brain0978599918@gmail.com)
 
 
 ### ☑ My Github Contribution
