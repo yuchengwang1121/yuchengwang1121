@@ -1,5 +1,7 @@
 ## Hi there 👋
-I'm Yu-Cheng Wang. Junior Software Coding & New born on RTL Coding 
+I'm Yu-Cheng Wang. Junior Software Coding & New born on RTL Coding. I am Wang Yucheng, currently a sophomore majoring in Computer Science at National Cheng Kung University. During my college years, I developed a profound interest in hardware, especially when I first encountered Verilog in my embedded hardware course. I experienced a deep sense of accomplishment when I successfully completed a PWM servo motor project using Verilog. This motivated me to start self-learning Verilog online and delve deeper into the subject by watching relevant tutorial videos.
+
+I consider myself someone who enjoys tackling challenging problems, possesses a strong sense of responsibility, and is accustomed to constantly acquiring new knowledge and adapting. I also enjoy engaging in discussions and debates with peers, as I believe that through the collision of ideas, we can achieve more effective results.
 ### 🌟 Git Stats
 ![YCW's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchengwang1121&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchengwang1121&layout=compact&show_icons=true&theme=radical)
