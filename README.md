@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### 
 ### My Github Contribution
-![](https://raw.githubusercontent.com/yuchengwang1121/yuchengwang1121/main/assets/github-contribution-grid-snake.svg)
+<img alt="github-snake" src="https://github.com/yuchengwang1121/yuchengwang1121/blob/output/github-contribution-grid-snake-dark.svg" />
 
 <!--
 **yuchengwang1121/yuchengwang1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
