@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Yu-Cheng Wang. Junior Software Coding & New born on RTL Coding 
-### Git Stats
+### 🌟 Git Stats
 
 ![YCW's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchengwang1121&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchengwang1121&layout=compact&show_icons=true&theme=radical)
@@ -8,9 +8,12 @@ I'm Yu-Cheng Wang. Junior Software Coding & New born on RTL Coding
 📩 
 
 
-### My Github Contribution
+### ☑ My Github Contribution
 <img alt="github-snake" src="https://github.com/yuchengwang1121/yuchengwang1121/blob/output/github-contribution-grid-snake-dark.svg" />
 
+### 📝 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ### Language & Tools
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
