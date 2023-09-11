@@ -1,14 +1,14 @@
 ## Hi there 👋
 I'm Yu-Cheng Wang. Junior Software Coding & New born on RTL Coding 
 ### 🌟 Git Stats
-
 ![YCW's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchengwang1121&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchengwang1121&layout=compact&show_icons=true&theme=radical)
 
 📩 How to reach me:
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/yucheng-wang-3a569128b)
-[![Send me Email](https://img.shields.io/badge/--linkedin?label=Gmail&logo=Gmail&style=social)](brain0978599918@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/yucheng-wang-3a569128b) 
+[![Connect on FaceBook](https://img.shields.io/badge/--FaceBook?label=FaceBook&logo=FaceBook&style=social)](https://www.facebook.com/profile.php?id=100005124821119)
+[![Connect on Instagram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://instagram.com/ycw_1121)
 
 
 ### ☑ My Github Contribution
@@ -36,9 +36,6 @@ I'm Yu-Cheng Wang. Junior Software Coding & New born on RTL Coding
   </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
